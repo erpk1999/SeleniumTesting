@@ -11,6 +11,7 @@ import dev.failsafe.internal.util.Assert;
 import java.time.Duration;
 
 public class FirstScript {
+    // FIRST PROJECT CLASS ADDED
     public static void main(String[] args) {
         WebDriver driver = new ChromeDriver();
 
